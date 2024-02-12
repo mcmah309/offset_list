@@ -1,7 +1,7 @@
 name: offset_list
 description: A list with an offset for accessing elements. This is useful for correctly implementing mathematical formulas that assume a different starting index than 0.
 version: 0.1.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/mcmah309/offset_list
 
 environment:
   sdk: ^3.2.0
